@@ -648,13 +648,25 @@
         "uuid": "0ff39c71-7277-4bca-bec9-7dd2dd3a355f"
       }
     ],
-    "used_designators": "U1-3,#PWR1-4,R1,C1-3",
+    "used_designators": "U1-3,#PWR1-4,R1,C1-3,JP1",
     "variants": []
   },
   "sheets": [
     [
       "0ff39c71-7277-4bca-bec9-7dd2dd3a355f",
       "Root"
+    ],
+    [
+      "dfb7082f-82fd-473f-8dcb-008a9c4e8fee",
+      "MCU"
+    ],
+    [
+      "319fd83d-8a9e-4b05-9180-f798812624a6",
+      "power"
+    ],
+    [
+      "5f8b27b3-e9ef-4d6e-a16f-096a169332cf",
+      "signal"
     ]
   ],
   "text_variables": {},
